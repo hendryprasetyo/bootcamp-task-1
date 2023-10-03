@@ -13,7 +13,7 @@ HTML5, CSS, Tailwind CSS, Javascript
 | Primary Color   | ![#f2f5f9](https://via.placeholder.com/10/f2f5f9?text=+) #f2f5f9 |
 | Secondary Color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
 | Tertiary Color  | ![#ff9c1b](https://via.placeholder.com/10/ff9c1b?text=+) #ff9c1b |
-| black-100       | ![#0b0909](https://via.placeholder.com/10/0b0909?text=+) #0b0909 |
+| Black-100       | ![#0b0909](https://via.placeholder.com/10/0b0909?text=+) #0b0909 |
 
 ## Font Family
 
